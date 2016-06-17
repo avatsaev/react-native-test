@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64"
+    api-level="23"
+    density="560dpi"
+    format="7"
+    timestamp="24490242104342"
+    token="-5928085703066510709" >
+
+    <task
+        name="javac"
+        duration="1400" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="344" />
+    <task
+        name="verifier"
+        duration="36" />
+
+    <artifact
+        location="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="24490242104342" >
+        <artifact
+            location="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
