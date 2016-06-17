@@ -2,193 +2,211 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.10.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.10.0_7b14355253f459997b0890c2268a0a085867d165.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.2.0/1ea229d6984444c8c58b8e97ba4c8429d9d135b3/okhttp-ws-3.2.0.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="1ea229d6984444c8c58b8e97ba4c8429d9d135b3">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.2.0_f0c1d69db83a0bad2b5555467026280397562d32.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.10.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.10.0_d1d644cb89b9f0b6be48e0ea732cbb0fc7cee2a3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_680be25ea8446b2ea60ea988e4cbae1927bea1bb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.10.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="53880c6e24bb574c2f03fd0f743a268ccc502f45">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-0.10.0_bb8a0a9e3cf099e2c3879df30e40c70cfb9c7a48.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.10.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.10.0_b289d845071b6c6c80e6e97b688795b9affa677c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0_bc9c845a3ef62933f7934cfea0dd7235ced9583f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_22ea0a9501557f97638db8a0eb4d5786a5052048.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_57de484a474fd80137f53ca946862eb47af224a0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.2.0/6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c/okhttp-urlconnection-3.2.0.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.2.0_f28a43a1e97da572abe8e50b951b468d4beb7eee.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_00c8d4cbf4eccf971774ac96e92f19343bcea7fc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3_d3375fa27d28a4ee8ea7a0a27381cdd32bdab63c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_255d6fb6f714b761c2244b4bdf337a4c9f87a7b8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="129874135e6081269ace2312092031558865de12">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_d4bf8c643e6671fbf788292f25bb338185c67afd.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.27.2/jars/classes.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="36e26cb6307d65fd1480e7556ec071da88280722">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.27.2_73b1465894740f02676f0fa267720de772d3ebbc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_51a60465cb8666fb7f9673e76ca2b878f866117d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okio-1.8.0_0d063dc7e461989abb8d68d757b7b85821324200.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
-        jumboMode="false"
-        optimize="false"
-        revision="23.0.3"
-        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_e94e499788c32f30f1f91f3205eb32bfeb4d9753.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.10.0/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.10.0/jars/classes.jar"
+        jumboMode="true"
         optimize="false"
         revision="23.0.3"
         sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.10.0_393cc6371e9255cb2500c347f389bc7342df1224.jar" />
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-0.10.0_cbc151ca77757edc83fd9122961e4afd7e436422/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="65f0c887ee1f57cd0ea65b228e39b7f35372b798">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-0.10.0_a9a430c560c6be02ff3c1c569e755091454dcf49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.2.0/6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c/okhttp-urlconnection-3.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.2.0_f28a43a1e97da572abe8e50b951b468d4beb7eee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.10.0/jars/classes.jar"
+        jumboMode="true"
         optimize="false"
         revision="23.0.3"
         sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.10.0_cf6ccd7a47d7940244c248e5aea95671aec374f2.jar" />
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-0.10.0_867c6847a671a3115f6a8c02e230aa0cc7fcd365/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.27.2/jars/libs/infer-annotations-1.5.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="b128cb21e6ef5bdc26eda03e8f1e074de276bff6">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0e33ddd1de12b9652d0eb7376e2b4427ba057dfa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.2.0/1ea229d6984444c8c58b8e97ba4c8429d9d135b3/okhttp-ws-3.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="1ea229d6984444c8c58b8e97ba4c8429d9d135b3">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.2.0_f0c1d69db83a0bad2b5555467026280397562d32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_680be25ea8446b2ea60ea988e4cbae1927bea1bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_011fd62ca53eec30195efe78639f6ecd114893df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-0.10.0_fa14565d840d03c23537b631326689f26a735b1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_0d063dc7e461989abb8d68d757b7b85821324200/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="53880c6e24bb574c2f03fd0f743a268ccc502f45">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-okhttp3-0.10.0_860a2b7eb01077c297b3c9bab40b6477893c2a5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="607f6d8f054c1fd232fdba70b7033de4e651e64c">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c6e7f771da33a4249d3b1be155d5f4a563b36760/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_bc9c845a3ef62933f7934cfea0dd7235ced9583f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_74698b621c8205b564eef0a142c77209cad99991/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.2.3_d3375fa27d28a4ee8ea7a0a27381cdd32bdab63c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_00c8d4cbf4eccf971774ac96e92f19343bcea7fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.27.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="36e26cb6307d65fd1480e7556ec071da88280722">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.react-react-native-0.27.2_bbebe86d1a2c59f6fb614ab8f43ffae47493443b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_da32b4a5ee26ff89d48359e3642d3776cf4aa9ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_ae0c12ce1efdbb76e44d07d52e9fe881713bc66c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-android-1.1.4_d4bf8c643e6671fbf788292f25bb338185c67afd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_e94e499788c32f30f1f91f3205eb32bfeb4d9753/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.27.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="true"
         optimize="false"
         revision="23.0.3"
         sha1="cbdbf93189a97ea1b78ce66efdf5c2e225833b3c">
-        <dex dex="/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_cbf38f0a193cc4266f5ae9739f024f4d27df9eaa.jar" />
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_8dd54b5a0ce76e7db5adc14a68a6af870c3ce4b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.10.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="23.0.3"
+        sha1="857099e23430445aeb65cf703d5adf646ff280f1">
+        <dex dex="/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-0.10.0_63e3f9c604ef1fbe324be884d0bd7bc91537c84c/classes.dex" />
     </item>
 
 </items>

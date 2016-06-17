@@ -1,4 +1,7 @@
-#Fri Jun 17 15:54:57 CEST 2016
-base.0=/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
-renamed.0=classes.dex
-file.0=/Users/avatsaev/DEV/React/Native/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+#Fri Jun 17 16:03:47 CEST 2016
+base.0=/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c6e7f771da33a4249d3b1be155d5f4a563b36760
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0e33ddd1de12b9652d0eb7376e2b4427ba057dfa/classes.dex
+base.1=/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0e33ddd1de12b9652d0eb7376e2b4427ba057dfa
+file.0=/Users/avatsaev/DEV/React/Native/react-native-test/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c6e7f771da33a4249d3b1be155d5f4a563b36760/classes.dex
